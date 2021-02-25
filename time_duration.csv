@@ -1,0 +1,8 @@
+Label,Mean time,CI95 
+pneumonia,5.83,0.79
+atelectasis,6.05,0.58
+pleural effusion,5.43,0.55
+cardiomegaly,4.63,0.54
+pulmonary edema,7.27,1.28
+interstitial lung disease,10.79,4.53
+pneumothorax,13.92,3.93
